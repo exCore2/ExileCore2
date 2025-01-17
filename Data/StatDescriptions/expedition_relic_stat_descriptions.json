@@ -1,0 +1,4210 @@
+[
+  {
+    "Stats": [
+      952
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0:+d}% to all maximum Resistances"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      9904
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased [AilmentThreshold|Elemental Ailment Threshold]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced [AilmentThreshold|Elemental Ailment Threshold]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      6576
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "All Damage from Monsters' Hits can Freeze"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      4806
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "All Damage from Monsters' Hits can Ignite"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      5678
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DamageTypes|All Damage] from Monsters' [HitDamage|Hits] [Contributes|Contributes] to [Poison] Magnitude"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      4805
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "All Damage from Monsters' [HitDamage|Hits] can [Shock]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      339
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters' [HitDamage|Hits] are always [Critical|Critical Hits]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      2466
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[Runic] Monsters apply a random [Curse] on [HitDamage|Hit]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[Runic] Monsters apply {0} random [Curse] on [HitDamage|Hit]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13628
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[Runic] Monsters apply Death Geas on Hit"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13629
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[Runic] Monsters inflict [Petrify|Petrification] for {0} seconds on [HitDamage|Hit]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19522
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters' [HitDamage|Hits] [ArmourBreak|Break Armour] equal to {0}% of [Physical|Physical Damage] dealt"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      574
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased [Attack] Speed while on [LowLife|Low Life]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced [Attack] Speed while on [LowLife|Low Life]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      7929
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% chance to Impale Enemies on Hit with [Attack|Attacks]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters Impale Enemies on Hit with [Attack|Attacks]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      6944
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% chance to Avoid All Damage from [HitDamage|Hits]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      186
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% chance to Avoid being [Chill|Chilled]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      187
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% chance to Avoid being [Freeze|Frozen]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      188
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% chance to Avoid being [Ignite|Ignited]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      189
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% chance to Avoid being [Shock|Shocked]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      5145
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased Bleeding Duration"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced Bleeding Duration"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      442,
+      194
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "Monsters' Hits always Freeze"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "Monsters' Hits always Freeze"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "Monsters' Hits have {0}% chance to Freeze"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      648
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters' Hits have {0}% chance to Shock"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters' Hits always Shock"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      4284
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<nemesismod>{{Monsters are Immune to [Cold] Damage}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      464
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters take {0}% increased Damage"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters take {0}% reduced Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      3983
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<nemesismod>{{Monsters are Immune to [Fire] Damage}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      4285
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<nemesismod>{{Monsters are Immune to [Lightning] Damage}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      3252
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased [Poison] Duration"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced [Poison] Duration"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      581
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters [Penetration|Penetrate] {0}% [Resistances|Cold Resistance]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      580
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters [Penetration|Penetrate] {0}% [Resistances|Fire Resistance]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      582
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters [Penetration|Penetrate] {0}% [Resistances|Lightning Resistance]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      3488,
+      2313,
+      2626
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "Monsters cannot inflict [Bleeding|Bleeding]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "Monsters' [Attack|Attack] Hits inflict [Bleeding|Bleeding]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "Monsters' [Attack|Attack] Hits inflict Bleeding"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "Monsters' [Attack|Attack] Hits have {0}% chance to inflict [Bleeding|Bleeding]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      8
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Life cannot be [LifeLeech|Leeched] from Monsters"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      9
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Mana cannot be Leeched from Monsters"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      572
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased Cast Speed while on [LowLife|Low Life]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced Cast Speed while on [LowLife|Low Life]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      707
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<nemesismod>{{Monsters are Immune to [Chaos] Damage}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      3960
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased [Critical|Critical Hit] Chance against Enemies on Full Life"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced [Critical|Critical Hit] Chance against Enemies on Full Life"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      570
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters deal {0}% increased Damage while on [LowLife|Low Life]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters deal {0}% reduced Damage while on [LowLife|Low Life]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      10088
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters' Hits Overwhelm {0}% Physical Damage Reduction"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      198
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased [Freeze] Duration"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced [Freeze] Duration"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      696
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters' [HitDamage|Hits] can't be [Evasion|Evaded]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      2257
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters [Poison] on [HitDamage|Hit]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      3978
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "PerMinuteToPerSecond"
+        ],
+        "String": "Every 4 seconds, [Runic] Monsters Regenerate {0}% of maximum Life over one second"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      4486
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters are [Hexproof]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      18182
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased [Freeze|Freeze] Buildup"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced [Freeze|Freeze] Buildup"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17989
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased [Flammability] [BuffMagnitude|Magnitude]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced [Flammability] [BuffMagnitude|Magnitude]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      199
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased [Ignite] Duration"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced [Ignite] Duration"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      770
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters are Immune to [Curse|Curses]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      7951
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased [Impale] [BuffMagnitude|Magnitude]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced [Impale] [BuffMagnitude|Magnitude]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      4514
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters kill things with 20% or lower Life on [HitDamage|Hit]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      478
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0:+d}% to maximum Chance to Block [Attack] Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1086
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0:+d}% Chance to Block [Attack] Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      25
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters deal {0}% increased Damage"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters deal {0}% increased Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13625
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have base Ward equal to {0}% of their maximum Life"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      4366
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters do not grant [Flask] Charges when Slain"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      119
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased Maximum Life"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced Maximum Life"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      172
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased Movement Speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced Movement Speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      71
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased [Attack] Speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced [Attack] Speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      213
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased Cast Speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced Cast Speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      795
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased Movement Speed while on [LowLife|Low Life]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced Movement Speed while on [LowLife|Low Life]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      2490
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[HitDamage|Hits] against Monsters cannot be [Critical|Critical Hits]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17868
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters [Gain] {0}% of Damage as Extra [Chaos] Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17866
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters [Gain] {0}% of Damage as Extra [Cold] Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17865
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters [Gain] {0}% of Damage as Extra [Fire] Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17867
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters [Gain] {0}% of Damage as Extra [Lightning] Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      436
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters gain {0}% of Physical Damage as Extra Chaos Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      728
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<nemesismod>{{Monsters are Immune to [Physical] Damage}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      584
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters Penetrate {0}% Chaos Resistance"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13627
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters' Hits remove {0}% of current [EnergyShield|Energy Shield]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13626
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters' Hits remove {0}% of current Mana"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      7187
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0:+d}% to all [Resistances]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17990
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased chance to [Shock]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced chance to [Shock]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      3422
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters inflict [Shock] with {0}% increased [BuffMagnitude|Magnitude]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters inflict [Shock] with {0}% reduced [BuffMagnitude|Magnitude]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      147
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{{0}% increased Quantity of Items Found in Excavated Chests}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "<enchanted>{{{0}% reduced Quantity of Items Found in Excavated Chests}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13312
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{{0}% increased Rarity of Items Found in Excavated Chests}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "<enchanted>{{{0}% reduced Rarity of Items Found in Excavated Chests}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13631
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{{0}% increased Quantity of Artifacts found in Excavated Chests}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "<enchanted>{{{0}% reduced Quantity of Artifacts found in Excavated Chests}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13633
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{{0}% increased Quantity of Expedition Logbooks found in Excavated Chests}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "<enchanted>{{{0}% reduced Quantity of Expedition Logbooks found in Excavated Chests}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13658
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Abyssal Jewel}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Abyssal Jewel}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13696
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Sacrifice Fragment}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain additional Sacrifice Fragment}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13700
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Oil}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Oil}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13694
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Breach Splinters}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain additional Breach Splinters}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13654
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Currency Items}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain additional Currency Items}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13702
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Simulacrum Splinters}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain additional Simulacrum Splinters}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13656
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Divination Card}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Divination Card}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13653
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Enchanted Item}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Enchanted Item}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13695
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Essence}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Essence}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13697
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Fossil}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Fossil}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13683
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Fractured Item}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Fractured Item}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13652
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional valuable Gem}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional valuable Gem}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13660
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Gem}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Gem}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13693
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Currency Shards}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain additional Currency Shards}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13703
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Heist Contract}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Heist Contract}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13655
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Incubator}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Incubator}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13681
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Influenced Item}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Influenced Item}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13699
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Legion Splinters}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain additional Legion Splinters}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13651
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Map}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Map}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13701
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Catalyst}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Catalyst}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13690
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Rare Armour Item}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Rare Armour Item}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13691
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Rare [Jewellery] Item}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Rare [Jewellery] Item}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13692
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Rare Weapon}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Rare Weapon}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13657
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Scarab}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Scarab}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13698
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Stacked Deck}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Stacked Deck}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13661
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Talisman}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Talisman}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13659
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Unique Item}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain an additional Unique Item}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13686
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Broken Circle Artifacts}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain additional Broken Circle Artifacts}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13687
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Black Scythe Artifacts}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain additional Black Scythe Artifacts}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13688
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Order Artifacts}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain additional Order Artifacts}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13689
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Sun Artifacts}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Excavated Chests contain additional Sun Artifacts}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13647
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters have {0}% chance to drop an additional Abyssal Jewel}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop an additional Abyssal Jewel}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13669
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Sacrifice Fragment}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Sacrifice Fragment}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13673
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Oil}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Oil}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13667
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop additional Breach Splinters}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop additional Breach Splinters}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      8479
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters have {0}% chance to drop [Corrupted] Items}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop [Corrupted] Items}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13643
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters have {0}% chance to drop additional Currency Items}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop additional Currency Items}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13675
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop additional Simulacrum Splinters}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop additional Simulacrum Splinters}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13645
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Divination Card}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Divination Card}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13642
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Enchanted Item}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Enchanted Item}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13668
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Essence}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Essence}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13670
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Fossil}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Fossil}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13682
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Fractured Item}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Fractured Item}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      2131
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Items dropped by Runic Monsters are fully Linked}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13641
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional valuable Gem}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional valuable Gem}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13649
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Gem}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Gem}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13666
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop additional Currency Shards}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop additional Currency Shards}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13676
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Heist Contract}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Heist Contract}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13644
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Incubator}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Incubator}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13680
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Influenced Item}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Influenced Item}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13672
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop additional Legion Splinters}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop additional Legion Splinters}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13640
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Map}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Map}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13674
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Catalyst}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Catalyst}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13677
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters have {0}% chance to drop an additional Rare Armour Item}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop an additional Rare Armour Item}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13678
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters have {0}% chance to drop an additional [Rarity|Rare] [Jewellery] Item}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop an additional [Rarity|Rare] [Jewellery] Item}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13679
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters have {0}% chance to drop an additional [Rarity|Rare] Weapon}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop an additional Rare Weapon}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13646
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Scarab}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Scarab}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13671
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Stacked Deck}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Stacked Deck}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13650
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Talisman}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Runic Monsters drop an additional Talisman}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13648
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters have {0}% chance to drop an additional [Rarity|Unique] Item}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop an additional [Rarity|Unique] Item}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13662
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters have {0}% chance to drop additional Broken Circle Artifacts}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop additional Broken Circle Artifacts}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13663
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters have {0}% chance to drop additional Black Scythe Artifacts}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop additional Black Scythe Artifacts}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13664
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters have {0}% chance to drop additional Order Artifacts}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop additional Order Artifacts}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13665
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters have {0}% chance to drop additional Sun Artifacts}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop additional Sun Artifacts}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22444
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop other Items instead of Armour}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22445
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop other Items instead of Jewellery}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22443
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop other Items instead of Weapons}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13630
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{{0}% increased Quantity of Artifacts dropped by Monsters}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{{0}% reduced Quantity of Artifacts dropped by Monsters}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13632
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{{0}% increased Quantity of [ContainsExpedition|Expedition] [Logbook|Logbooks] dropped by [Runic] Monsters}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{{0}% reduced Quantity of [ContainsExpedition|Expedition] [Logbook|Logbooks] dropped by [Runic] Monsters}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      8479
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Items dropped by Monsters have {0}% chance to be Corrupted}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13719
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters are Duplicated}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16699
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Monsters spawn with an additional {0}% of Life missing}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1028
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{{0}% increased Pack size}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "<enchanted>{{{0}% reduced Pack size}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1030
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{{0}% increased number of Rare Monsters}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22624
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Monsters have +{0}% chance to Coalesce Corruption}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19993
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "<enchanted>{{{0}% increased Quantity of Items Dropped by Monsters}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "<enchanted>{{{0}% reduced Quantity of Items Dropped by Monsters}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19991
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "<enchanted>{{{0}% increased Rarity of Items Dropped by Monsters}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "<enchanted>{{{0}% reduced Rarity of Items Dropped by Monsters}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1029
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{{0}% increased number of Magic Monsters}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      11
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Monsters grant {0}% increased Experience}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "<enchanted>{{Monsters grant {0}% reduced Experience}}"
+      }
+    ]
+  }
+]
