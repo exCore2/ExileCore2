@@ -1,0 +1,21 @@
+You can create your own plugins using the supplied plugin template (exCore2.Plugin.Template).
+To do this, first install the template on your system:
+dotnet new install exCore2.Plugin.Template.2.0.0.nupkg
+
+Then, in a folder where you want your plugin sources, run:
+dotnet new exCore2Plugin -n MyPlugin
+A folder with all the required files will be created, study its contents and develop your plugin.
+To build your plugins in an IDE, you might want to set the environment variables "exapiPackage"/"exileCore2Package" to the folder where your instance of ExileCore2 is.
+
+When you want to test your plugin with HUD, simply put it in Plugins/Source like this:
+Plugins
+|
+->Source
+  |
+  ->MyPlugin
+    |
+    ->MyPlugin.csproj
+      file1.cs
+      file2.cs
+      ...
+After this, launch Loader.exe and you'll either be presented with compilation issues or the plugin will load.
