@@ -17,6 +17,4 @@ A bit on what this can do right now
 
 There is also a lot of plugins that simply need to be ported to PoE2 and of course you can create your own
 
-Will be paid in 0.5, join https://discord.gg/eMmeSyqEA3 to get access
-This is a free preview, it will NOT work in 0.5
-Use code freetest05
+Join https://discord.gg/eMmeSyqEA3 to get access
